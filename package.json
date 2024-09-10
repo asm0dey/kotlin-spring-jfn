@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "build": "slidev build",
-    "build-gha": "slidev build --base /kotlin-spring-springio",
+    "build-gha": "slidev build --base /kotlin-spring-jfn",
     "dev": "slidev",
     "export": "slidev export",
     "export-pdf": "slidev export --with-clicks --format pdf --output dist/index.pdf"
