@@ -1,0 +1,1 @@
+import{o as t,b as s,e as o,f as a}from"../modules/vue-ChoCGpyg.js";import{u as n}from"./context-DNtQOfN9.js";const r={class:"slidev-layout center h-full grid place-content-center statement"},c={class:"my-auto"},m={__name:"statement",setup(l){return n(),(e,_)=>(t(),s("div",r,[o("div",c,[a(e.$slots,"default")])]))}};export{m as _};
