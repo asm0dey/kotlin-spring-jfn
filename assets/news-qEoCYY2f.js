@@ -1,0 +1,1 @@
+var e=`/kotlin-spring-jfn/news.png`;export{e as t};
