@@ -1,0 +1,1 @@
+var e=`/kotlin-spring-jfn/jet.png`;export{e as t};
