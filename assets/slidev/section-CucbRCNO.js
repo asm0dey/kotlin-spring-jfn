@@ -1,0 +1,1 @@
+import{o as s,e as o,g as t,i as a}from"../modules/vue-nc5JMTag.js";import{u as r}from"./context-BBGU8K9O.js";const c={class:"slidev-layout h-full grid section"},i={class:"my-auto"},u={__name:"section",setup(l){return r(),(e,n)=>(s(),o("div",c,[t("div",i,[a(e.$slots,"default")])]))}};export{u as _};
